@@ -9,8 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Radzi7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radzi7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Radzi7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Radzi7&icon=2&color=3)](https://visitcount.itsvg.in)
